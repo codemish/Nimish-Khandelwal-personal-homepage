@@ -5,7 +5,7 @@ const Footer = (props) => (
     <footer id="footer" style={props.timeout ? {display: 'none'} : {}}>
         
         <p className="copyright">
-         Built with ❤️ by <a href="http://www.adityaketkar.me">Nimish Khandelwal</a>  
+         Built with ❤️ by Nimish Khandelwal</a>  
         <br/>
         </p>
     </footer>
