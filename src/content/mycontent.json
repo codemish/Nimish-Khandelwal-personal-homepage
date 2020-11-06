@@ -1,68 +1,40 @@
 {
-	"Title": "Aditya Ketkar | Personal Webpage",
-	"Name": "Aditya Ketkar",
+	"Title": "Nimish Khandelwalr | Personal Webpage",
+	"Name": "Nimish Khandelwal",
 	"Description": [
-		"Recent graduate from BITS Pilani. Passionate about Space Technology, Cognitive Modelling and Open Source.",
-		"I grab every chance I get to travel, learn and create."
+		"Persuing B.Tech from SSGITS,Indore. Passionate aboput competitive coding and ofcourse music ",
+		"I grab every chance I get to sing , learn ,create and travel."
 	],
-	"MainImage": "https://i.imgur.com/yQZNGdm.jpg",
+	"MainImage": "https://i.imgur.com/wq3e4bY.jpg",
 	"BackgroundURL": "",
-
-	"AboutImage": "https://i.imgur.com/5sOLND6.jpg",
+	"AboutImage": "https://imgur.com/4e7dd14d-3a28-4feb-9f0f-96d94ccf0cc9",
 	"AboutContent": [
-		"I’m a Computer Science major by day, a Table Tennis player by evening, a functional wantrepreneur by midnight and a hustler always.",
+		"I’m a Electronics and Telecommunications major by day, a Musician by evening, a coder by midnight and a hustler always.",
 		"If you can’t find me, it’s because I’m already cycling, off to a hike, or studying for an exam",
-		"I am passionate about Space Technology and Human Psychology (though, never studied them formally). A die-hard fan of Elon Musk.",
-		"I love the way the concept of \"work\" has evolved over the past decades, and hence would love to travel and work together whenever I can."
+		"Either it is a code or a note, I always try to hit it accurately",
+		"I love the way, hardwork takes a person from being a novice to an expert, thus strived to work hard every day"
 	],
 
 	"WorkContent": [
-		"I am currently full time Software Developer Engineer at Microsoft."
+		"I'm currently persuing my B.Tech from Shri Govindram Seksaria Institute of Technology and Science,Indore "
 	],
-	"WorkImage": "https://i.imgur.com/BHt1YKg.png",
+	"WorkImage": "https://imgur.com/Bscszzy",
 	"InternshipsStartLine": "Previously, I have interned with :",
 	"InternShips": [{
-			"name": "Amazon India",
-			"link": "#"
-		},
-		{
-			"name": "North-Eastern Space Application Center (ISRO)",
-			"link": "https://drive.google.com/file/d/1fMoF7gUfsow8BxTIK7I7jf9wmq9v7wfq/view"
-		},
-		{
-			"name": "Computer Vision Center, Universitat Autonoma de Barcelona",
-			"link": "https://drive.google.com/file/d/1H9H4ja9TgpxYf4QxSfQH2bCZWyAFYwlC/view?usp=sharing"
-		}
-	],
-	"ProjectsStartLine": "Some of the side projects I did can be found here :",
+		"name": "TechEnvisage Consulting Pvt. Ltd.",
+		"link": "https://techenvisage.com/"
+	}],
+	"ProjectsStartLine": "Some of the side projects I have done are :",
 	"Projects": [{
-			"name": "EisenList",
-			"link": "https://github.com/adityaketkar/eisenlist"
-		},
-		{
-			"name": "DelOr",
-			"link": "https://bitsdelor.wixsite.com/delor"
-		},
-		{
-			"name": "Alexa Music Companion",
-			"link": "https://medium.com/@ketkaraditya/hey-alexa-meet-music-1f7319750af7"
-		},
-		{
-			"name": "Gatsby Personal Webpage",
-			"link": "https://github.com/adityaketkar/circle-packing-personal-homepage"
-		}
-	],
+		"name": "Mobile Phone Detector"
+	}],
 
 	"CVStartLine": "I am always open to collaborations with impactful work. Feel free to reach out if you want to work together :) ",
-	"CV": "https://www.visualcv.com/aditya-ketkar/",
-	"Resume": "https://drive.google.com/file/d/1M1Vw1J7Yc3BFIgzJXX4_U-_nfIXCfK8n/view?usp=sharing",
+	"CV": "#",
+	"Resume": "#",
 
-	"emailid": "mailto:adityaketkar848@gmail.com",
-	"linkedin": "https://linkedin.com/in/adityaketkar",
-	"wordpress": "https://technoshblog.wordpress.com/",
-	"facebook": "https://www.facebook.com/aditya",
-	"github": "https://github.com/adityaketkar",
-	"instagram": "http://www.adityaketkar.me",
-	"twitter": "https://twitter.com/ketkar_a",
-	"medium": "https://medium.com/@ketkaraditya"
+	"emailid": "mailto:nimish.khandelwal29@gmail.com",
+	"linkedin": "https://www.linkedin.com/in/nimish-khandelwal-1058111b4/",
+	"facebook": "https://www.facebook.com/nimish.khandelwal.18/",
+	"instagram": "https://www.instagram.com/rhyth_mish/"
 }
