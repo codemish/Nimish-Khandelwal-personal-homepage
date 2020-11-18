@@ -10,13 +10,13 @@
 	"AboutImage": "https://i.imgur.com/3JtZVny.jpg",
 	"AboutContent": [
 		"I’m an Electronics and Telecommunication major by day, a Musician by evening, a coder by midnight and a hustler always.",
-		"If you cannnot find me, it’s because I’m already cycling, off to a hike, or studying for an exam",
-		"Either it is a code or a note, I always try to hit it accurately",
-		"I love the way hardwork takes a person from being a novice to an expert, thus strive to work hard every day"
+		"If you cannnot find me, it’s because I’m already cycling, off to a hike, or studying for an exam.",
+		"Either it is a code or a note, I always try to hit it accurately.",
+		"I love the way hardwork takes a person from being a novice to an expert, thus strive to work hard every day."
 	],
 
 	"WorkContent": [
-		"I am currently pursuing B.Tech from Shri Govindram Seksaria Institute of Technology and Science,Indore "
+		"I am currently pursuing B.Tech from Shri Govindram Seksaria Institute of Technology and Science,Indore. "
 	],
 	"WorkImage": "https://techenvisage.com/wp-content/uploads/2020/07/cropped-TechELogoV3-2-199x44.png",
 	"InternshipsStartLine": "Previously, I have interned with :",
@@ -26,14 +26,14 @@
 	}],
 	"ProjectsStartLine": "Some of the side projects I have done are :",
 	"Projects": [{
-			"name": "Mobile Phone Detector"
+			"name": "Mobile Phone Detector."
 		},
 		{
-			"name": "Created a ready to use login system including various APIs from Google,Facebook,Twitter for an easy authentication of the user"
+			"name": "Created a ready to use login system including various APIs from Google,Facebook,Twitter for an easy authentication of the user."
 		}
 	],
 
-	"CVStartLine": "I am always open to collaborations with impactful work. Feel free to reach out if you want to work together :) ",
+	"CVStartLine": "I am always open to collaborations with impactful work. Feel free to reach out if you want to work together :) .",
 	"CV": "",
 	"Resume": "https://drive.google.com/file/d/1x0KePlFftsg1HlEwKGkt2VO8ITP8ocW4/view?usp=sharing",
 
