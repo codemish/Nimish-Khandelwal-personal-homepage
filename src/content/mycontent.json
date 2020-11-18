@@ -26,7 +26,8 @@
 	}],
 	"ProjectsStartLine": "Some of the side projects I have done are :",
 	"Projects": [{
-		"name": "Mobile Phone Detector"
+		"name": "Mobile Phone Detector",
+		"name":"Created a ready to use login system including various APIs from Google,Facebook,Twitter for an easy authentication of the user",
 	}],
 
 	"CVStartLine": "I am always open to collaborations with impactful work. Feel free to reach out if you want to work together :) ",
@@ -34,6 +35,7 @@
 	"Resume": "https://drive.google.com/file/d/1x0KePlFftsg1HlEwKGkt2VO8ITP8ocW4/view?usp=sharing",
 
 	"emailid": "mailto:nimish.khandelwal29@gmail.com",
+	"github":"https://github.com/codemish",
 	"linkedin": "https://www.linkedin.com/in/nimish-khandelwal-1058111b4/",
 	"facebook": "https://www.facebook.com/nimish.khandelwal.18/",
 	"instagram": "https://www.instagram.com/rhyth_mish/"
