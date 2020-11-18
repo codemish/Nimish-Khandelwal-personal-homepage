@@ -28,7 +28,7 @@ class Main extends React.Component {
           }`}
           style={{ display: 'none' }}
         >
-          <h2 className="major">About</h2>
+          <h2 className="major">About me</h2>
           <span className="image main">
             <div >
               <img src={JSONData.AboutImage} alt="" />
