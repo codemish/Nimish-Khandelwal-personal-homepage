@@ -26,16 +26,21 @@
 	}],
 	"ProjectsStartLine": "Some of the side projects I have done are :",
 	"Projects": [{
-			"name": "Mobile Phone Detector."
+			"name": "RASHAN WALA | Grocery Application",
+		         "link":"https://github.com/codemish/Rashan-Wala"
 		},
 		{
-			"name": "Created a ready to use login system including various APIs from Google,Facebook,Twitter for an easy authentication of the user."
+			"name": "INTHOUGHTS | A News Catering Application",
+			"link":"https://github.com/codemish/inThoughts"
+		},{
+			"name": "FILESHARE | Sharing Files on the go.",
+			"link":"https://github.com/codemish/fileShare"
 		}
 	],
 
 	"CVStartLine": "I am always open to collaborations with impactful work. Feel free to reach out if you want to work together :) .",
 	"CV": "",
-	"Resume": "https://drive.google.com/file/d/1KIh5I93LQDDWLX7NoKryJMYoBFkFvZE5/view?usp=sharing",
+	"Resume": "https://drive.google.com/file/d/1xbF-k5raIEyESpNM-Ql2G3H9jcrK40ci/view?usp=sharing",
 
 	"emailid": "mailto:nimish.khandelwal29@gmail.com",
 	"github": "https://github.com/codemish",
